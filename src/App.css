@@ -4,6 +4,8 @@
   width: 100px;
   cursor: pointer;
 
+  background-color: lightsalmon;
+
   display: flex;
   justify-content: center;
   align-items: center;
